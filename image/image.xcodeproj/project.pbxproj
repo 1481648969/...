@@ -13,6 +13,7 @@
 		880BCFAE1D8804AB0089744E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 880BCFAC1D8804AB0089744E /* Main.storyboard */; };
 		880BCFB01D8804AB0089744E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 880BCFAF1D8804AB0089744E /* Assets.xcassets */; };
 		880BCFB31D8804AB0089744E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 880BCFB11D8804AB0089744E /* LaunchScreen.storyboard */; };
+		885461061D8FF192001D008B /* yanzhengma.gif in Resources */ = {isa = PBXBuildFile; fileRef = 885461051D8FF192001D008B /* yanzhengma.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		880BCFAF1D8804AB0089744E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		880BCFB21D8804AB0089744E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		880BCFB41D8804AB0089744E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		885461051D8FF192001D008B /* yanzhengma.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = yanzhengma.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				880BCFAF1D8804AB0089744E /* Assets.xcassets */,
 				880BCFB11D8804AB0089744E /* LaunchScreen.storyboard */,
 				880BCFB41D8804AB0089744E /* Info.plist */,
+				885461051D8FF192001D008B /* yanzhengma.gif */,
 				880BCFA31D8804AB0089744E /* Supporting Files */,
 			);
 			path = image;
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				885461061D8FF192001D008B /* yanzhengma.gif in Resources */,
 				880BCFB31D8804AB0089744E /* LaunchScreen.storyboard in Resources */,
 				880BCFB01D8804AB0089744E /* Assets.xcassets in Resources */,
 				880BCFAE1D8804AB0089744E /* Main.storyboard in Resources */,
@@ -300,6 +304,7 @@
 				880BCFB91D8804AC0089744E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
